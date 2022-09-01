@@ -1,0 +1,23 @@
+2022-09-01 15:34:00,781 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2022-09-01 15:34:00,797 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2022-09-01 15:34:00,798 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2022-09-01 15:34:00,812 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2022-09-01 15:34:00,812 INFO o.a.j.JMeter: Version 5.5
+2022-09-01 15:34:00,812 INFO o.a.j.JMeter: java.version=1.8.0_181
+2022-09-01 15:34:00,812 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-09-01 15:34:00,813 INFO o.a.j.JMeter: os.name=Windows 10
+2022-09-01 15:34:00,813 INFO o.a.j.JMeter: os.arch=amd64
+2022-09-01 15:34:00,813 INFO o.a.j.JMeter: os.version=10.0
+2022-09-01 15:34:00,814 INFO o.a.j.JMeter: file.encoding=GBK
+2022-09-01 15:34:00,814 INFO o.a.j.JMeter: java.awt.headless=null
+2022-09-01 15:34:00,814 INFO o.a.j.JMeter: Max memory     =1073741824
+2022-09-01 15:34:00,814 INFO o.a.j.JMeter: Available Processors =4
+2022-09-01 15:34:00,821 INFO o.a.j.JMeter: Default Locale=English (EN)
+2022-09-01 15:34:00,822 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2022-09-01 15:34:00,822 INFO o.a.j.JMeter: JMeterHome=D:\GITHUB\cloud2022\apache-jmeter-5.5\apache-jmeter-5.5
+2022-09-01 15:34:00,822 INFO o.a.j.JMeter: user.dir  =D:\GITHUB\cloud2022\apache-jmeter-5.5\apache-jmeter-5.5\bin
+2022-09-01 15:34:00,822 INFO o.a.j.JMeter: PWD       =D:\GITHUB\cloud2022\apache-jmeter-5.5\apache-jmeter-5.5\bin
+2022-09-01 15:34:00,823 INFO o.a.j.JMeter: IP: 192.168.200.1 Name: PC-202109071416 FullName: PC-202109071416
+2022-09-01 15:34:00,862 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-09-01 15:34:01,106 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2022-09-01 15:34:24,497 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
