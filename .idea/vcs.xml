@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/consul" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springcloud-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springcloud-config/zzyybs-springcloud-config" vcs="Git" />
   </component>
 </project>
