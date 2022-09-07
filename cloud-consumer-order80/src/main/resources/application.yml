@@ -4,6 +4,12 @@ server:
 spring:
   application:
     name: cloud-order-service
+  zipkin:
+    base-url: http://localhost:9411 #把监控的数据打到9411zipkin上
+    sleuth:
+      sampler:
+        probability: 1
+
 
 eureka:
   client:
